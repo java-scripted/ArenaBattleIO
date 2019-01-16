@@ -8,12 +8,11 @@ This game is simple: You pick a person, the person has weapons, and there are ot
 Hit your enemies to kill them.
 Victory Royale!
 
-Very simple game mechanics, and beautiful HD graphics that will forsure suit your tastes.
-forsure forsure
+Very simple game mechanics, and beautiful HD graphics that will for sure suit your tastes.
 
 If you don't like it, Make an issue! Tell us why you didn't like it!
 
-Be specific!
+Be specific and honest!
 "Your game lacks decent graphics, the movement mechanics suck, there's tons of lag, it eats up memory like you developers 
 eat document.cookies, and it gives a trash user experience."
 
