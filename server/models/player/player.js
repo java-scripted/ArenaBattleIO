@@ -29,4 +29,7 @@ EVERYTHING will be done server side. This includes movement, player position, an
 The only thing the client will do is show the data effectively, and send user input.
 Anything else sent by the user is anthrax! Don't touch it!
 Even the user input might be anthrax! Make sure to sanitize anything and everything.
+
+This is kinda dum. Sice its only running on one server. If people play in china  or heck, even california, it will be laggy!
+ok
 */
